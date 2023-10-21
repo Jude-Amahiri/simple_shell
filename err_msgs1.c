@@ -1,7 +1,7 @@
 /*
  * File: err_msgs1.c
  * Auth: Jude Yu
- *       Brennan D Baraban
+ *       Jude Amahiri
  */
 
 #include "shell.h"

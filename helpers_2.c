@@ -1,7 +1,7 @@
 /*
  * File: helpers_2.c
  * Auth: Jude Yu
- *       Brennan D Baraban
+ *       Jude Amahiri
  */
 
 #include "shell.h"

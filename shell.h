@@ -4,7 +4,7 @@
 /*
  * File: shell.h
  * Auth: Jude Yu
- *       Brennan D Baraban
+ *       Jude Amahiri
  */
 
 #include <fcntl.h>
