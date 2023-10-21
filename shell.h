@@ -3,7 +3,7 @@
 
 /*
  * File: shell.h
- * Auth: Jude Yu
+ * Auth: Me
  *       Jude Amahiri
  */
 

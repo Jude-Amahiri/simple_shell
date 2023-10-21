@@ -1,6 +1,6 @@
 /*
  * File: errors.c
- * Auth: Jude Yu
+ * Auth: Me
  *       Jude Amahiri
  */
 

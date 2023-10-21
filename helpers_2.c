@@ -1,6 +1,6 @@
 /*
  * File: helpers_2.c
- * Auth: Jude Yu
+ * Auth: Me
  *       Jude Amahiri
  */
 

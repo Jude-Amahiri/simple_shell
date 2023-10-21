@@ -1,6 +1,6 @@
 /*
  * File: input_helpers.c
- * Auth: Jude Yu
+ * Auth: Me
  *       Jude Amahiri
  */
 

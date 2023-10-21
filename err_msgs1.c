@@ -1,6 +1,6 @@
 /*
  * File: err_msgs1.c
- * Auth: Jude Yu
+ * Auth: Me
  *       Jude Amahiri
  */
 

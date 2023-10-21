@@ -1,6 +1,6 @@
 /*
  * File: str_funcs2.c
- * Auth: Jude Yu
+ * Auth: Me
  *       Jude Amahiri
  */
 

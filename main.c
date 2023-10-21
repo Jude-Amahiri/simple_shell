@@ -1,6 +1,6 @@
 /*
  * File: main.c
- * Auth: Jude Yu
+ * Auth: Me
  *       Jude Amahiri
  */
 
