@@ -1,6 +1,6 @@
 /*
  * File: str_funcs2.c
- * Auth: Alex Yu
+ * Auth: Jude Yu
  *       Brennan D Baraban
  */
 

@@ -1,6 +1,6 @@
 /*
  * File: input_helpers.c
- * Auth: Alex Yu
+ * Auth: Jude Yu
  *       Brennan D Baraban
  */
 

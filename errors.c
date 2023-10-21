@@ -1,6 +1,6 @@
 /*
  * File: errors.c
- * Auth: Alex Yu
+ * Auth: Jude Yu
  *       Brennan D Baraban
  */
 
